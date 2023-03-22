@@ -6,6 +6,9 @@ namespace New_Homework
     {
         static void Main(string[] args)
         {
+
+            
+
             var bank = new Bank();
             Console.WriteLine("enter 0 or 1: ");
             bank.m = int.Parse(Console.ReadLine());
@@ -37,6 +40,20 @@ namespace New_Homework
             }
 
             Console.ReadLine();
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
         }
     }
 }
