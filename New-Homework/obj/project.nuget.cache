@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dOGtpa1zTTD16MlTOVisJl5Ssc4T3RfF5tpA4xLvt7vGD2cJaidYo3oWId2HHkLu9j05DjXXbyULjiiczkqU6w==",
+  "success": true,
+  "projectFilePath": "/Users/giorgishushanashvili/Projects/New-Homework/New-Homework/New-Homework.csproj",
+  "expectedPackageFiles": [
+    "/Users/giorgishushanashvili/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/giorgishushanashvili/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/giorgishushanashvili/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7A53AE3A-7F17-4FC2-A8AD-D5BB22307E79}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.New-Homework FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="New-Homework/Microfinance.cs">
+    <Files>
+      <File FileName="New-Homework/Program.cs" />
+      <File FileName="New-Homework/Bank.cs" />
+      <File FileName="New-Homework/Microfinance.cs" Line="1" Column="1" />
+      <File FileName="New-Homework/IFinanceoperations.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New-Homework" expanded="True">
+            <Node name="New-Homework" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
