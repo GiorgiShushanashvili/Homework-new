@@ -1,0 +1,14 @@
+/Users/giorgishushanashvili/Projects/New-Homework/Design-patterns-Proxy/bin/Debug/netcoreapp3.1/Design-patterns-Proxy
+/Users/giorgishushanashvili/Projects/New-Homework/Design-patterns-Proxy/bin/Debug/netcoreapp3.1/Design-patterns-Proxy.deps.json
+/Users/giorgishushanashvili/Projects/New-Homework/Design-patterns-Proxy/bin/Debug/netcoreapp3.1/Design-patterns-Proxy.runtimeconfig.json
+/Users/giorgishushanashvili/Projects/New-Homework/Design-patterns-Proxy/bin/Debug/netcoreapp3.1/Design-patterns-Proxy.runtimeconfig.dev.json
+/Users/giorgishushanashvili/Projects/New-Homework/Design-patterns-Proxy/bin/Debug/netcoreapp3.1/Design-patterns-Proxy.dll
+/Users/giorgishushanashvili/Projects/New-Homework/Design-patterns-Proxy/bin/Debug/netcoreapp3.1/Design-patterns-Proxy.pdb
+/Users/giorgishushanashvili/Projects/New-Homework/Design-patterns-Proxy/obj/Debug/netcoreapp3.1/Design-patterns-Proxy.csproj.AssemblyReference.cache
+/Users/giorgishushanashvili/Projects/New-Homework/Design-patterns-Proxy/obj/Debug/netcoreapp3.1/Design-patterns-Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgishushanashvili/Projects/New-Homework/Design-patterns-Proxy/obj/Debug/netcoreapp3.1/Design-patterns-Proxy.AssemblyInfoInputs.cache
+/Users/giorgishushanashvili/Projects/New-Homework/Design-patterns-Proxy/obj/Debug/netcoreapp3.1/Design-patterns-Proxy.AssemblyInfo.cs
+/Users/giorgishushanashvili/Projects/New-Homework/Design-patterns-Proxy/obj/Debug/netcoreapp3.1/Design-patterns-Proxy.csproj.CoreCompileInputs.cache
+/Users/giorgishushanashvili/Projects/New-Homework/Design-patterns-Proxy/obj/Debug/netcoreapp3.1/Design-patterns-Proxy.dll
+/Users/giorgishushanashvili/Projects/New-Homework/Design-patterns-Proxy/obj/Debug/netcoreapp3.1/Design-patterns-Proxy.pdb
+/Users/giorgishushanashvili/Projects/New-Homework/Design-patterns-Proxy/obj/Debug/netcoreapp3.1/Design-patterns-Proxy.genruntimeconfig.cache
