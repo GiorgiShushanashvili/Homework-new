@@ -1,28 +1,23 @@
-﻿<Properties StartupConfiguration="{7A53AE3A-7F17-4FC2-A8AD-D5BB22307E79}|Default">
+﻿<Properties StartupConfiguration="{11D6FD5F-13E9-4EFB-8949-4F292263BE51}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.New-Homework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Design-patterns-Proxy FirstBuild="True" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="New-Homework/Bank.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework11-Patterns/Program.cs">
     <Files>
-      <File FileName="New-Homework/IFinanceoperations.cs" Line="1" Column="1" />
-      <File FileName="New-Homework/Bank.cs" Line="1" Column="1" />
-      <File FileName="New-Homework/Microfinance.cs" Line="1" Column="1" />
-      <File FileName="New-Homework/Program.cs" Line="1" Column="1" />
+      <File FileName="Homework11-Patterns/Program.cs" Line="32" Column="23" />
+      <File FileName="Homework11-Patterns/Furniture.cs" Line="31" Column="1" />
+      <File FileName="Homework11-Patterns/Furniture.cs" Line="78" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="New-Homework" expanded="True">
-            <Node name="homework10-task1" expanded="True" />
-            <Node name="New-Homework" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="New-Homework" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Homework11-Patterns FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Homework11-Patterns PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
