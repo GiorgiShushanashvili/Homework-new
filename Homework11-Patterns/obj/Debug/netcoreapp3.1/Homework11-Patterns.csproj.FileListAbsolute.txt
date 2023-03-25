@@ -1,0 +1,14 @@
+/Users/giorgishushanashvili/Projects/New-Homework/Homework11-Patterns/bin/Debug/netcoreapp3.1/Homework11-Patterns
+/Users/giorgishushanashvili/Projects/New-Homework/Homework11-Patterns/bin/Debug/netcoreapp3.1/Homework11-Patterns.deps.json
+/Users/giorgishushanashvili/Projects/New-Homework/Homework11-Patterns/bin/Debug/netcoreapp3.1/Homework11-Patterns.runtimeconfig.json
+/Users/giorgishushanashvili/Projects/New-Homework/Homework11-Patterns/bin/Debug/netcoreapp3.1/Homework11-Patterns.runtimeconfig.dev.json
+/Users/giorgishushanashvili/Projects/New-Homework/Homework11-Patterns/bin/Debug/netcoreapp3.1/Homework11-Patterns.dll
+/Users/giorgishushanashvili/Projects/New-Homework/Homework11-Patterns/bin/Debug/netcoreapp3.1/Homework11-Patterns.pdb
+/Users/giorgishushanashvili/Projects/New-Homework/Homework11-Patterns/obj/Debug/netcoreapp3.1/Homework11-Patterns.csproj.AssemblyReference.cache
+/Users/giorgishushanashvili/Projects/New-Homework/Homework11-Patterns/obj/Debug/netcoreapp3.1/Homework11-Patterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgishushanashvili/Projects/New-Homework/Homework11-Patterns/obj/Debug/netcoreapp3.1/Homework11-Patterns.AssemblyInfoInputs.cache
+/Users/giorgishushanashvili/Projects/New-Homework/Homework11-Patterns/obj/Debug/netcoreapp3.1/Homework11-Patterns.AssemblyInfo.cs
+/Users/giorgishushanashvili/Projects/New-Homework/Homework11-Patterns/obj/Debug/netcoreapp3.1/Homework11-Patterns.csproj.CoreCompileInputs.cache
+/Users/giorgishushanashvili/Projects/New-Homework/Homework11-Patterns/obj/Debug/netcoreapp3.1/Homework11-Patterns.dll
+/Users/giorgishushanashvili/Projects/New-Homework/Homework11-Patterns/obj/Debug/netcoreapp3.1/Homework11-Patterns.pdb
+/Users/giorgishushanashvili/Projects/New-Homework/Homework11-Patterns/obj/Debug/netcoreapp3.1/Homework11-Patterns.genruntimeconfig.cache
