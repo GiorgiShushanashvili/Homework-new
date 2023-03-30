@@ -1,15 +1,8 @@
-﻿<Properties StartupConfiguration="{11D6FD5F-13E9-4EFB-8949-4F292263BE51}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties StartupConfiguration="{FCAE9127-1EA6-4BED-B4D3-EB54E4ABC522}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.New-Homework PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Design-patterns-Proxy FirstBuild="True" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Homework11-Patterns/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Design-patterns-Proxy/Program.cs">
     <Files>
-      <File FileName="Homework11-Patterns/Program.cs" Line="32" Column="23" />
-      <File FileName="Homework11-Patterns/Furniture.cs" Line="31" Column="1" />
-      <File FileName="Homework11-Patterns/Furniture.cs" Line="78" Column="6" />
+      <File FileName="Design-patterns-Proxy/Program.cs" Line="43" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,5 +12,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Homework11-Patterns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Design-patterns-Proxy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.New-Homework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Files FirstBuild="True" />
 </Properties>
